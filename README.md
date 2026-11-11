@@ -1,5 +1,4 @@
-## 
-<h1 align="center">🐍 Hello, Welcome to My Python Repository!</h1>
+## <h1 align="center">🐍 Hello, Welcome to My Python Repository!</h1>
 
 <h1 align="center">🐍 PYTHON PROGRAMMING</h1>
 
